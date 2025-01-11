@@ -327,3 +327,15 @@ input[type="text"]{
 .x{
     padding: 10px;
 }
+.nav-button:hover{background-color: aquamarine;}
+.btn1:hover{background-color: aquamarine;}
+.learnmore1:hover{background-color: aquamarine;}
+.learnmore2:hover{background-color: aquamarine;}
+.learnmore3:hover{background-color: aquamarine;}
+.readmore:hover{background-color: aquamarine;}
+.taka1:hover{background-color: aquamarine;}
+.taka2:hover{background-color: aquamarine;}
+.taka3:hover{background-color: aquamarine;}
+.taka4:hover{background-color: aquamarine;}
+.done:hover{background-color: aquamarine;}
+.subscribebutton:hover{background-color: aquamarine;}
